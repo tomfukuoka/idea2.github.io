@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisioDocument>
+	<DocumentProperties>
+		<Title></Title>
+		<HyperlinkBase href=""></HyperlinkBase>
+	</DocumentProperties>
+	<Pages>
+		<Page ID="10" Name="ページ - 6" NameU="Page-6">
+			<PageProps>
+				<PageScale Unit="MM">0.039370078740157</PageScale>
+				<DrawingScale Unit="MM">0.039370078740157</DrawingScale>
+			</PageProps>
+			<Shapes>
+				<Shape ID="1" UniqueID="{47C14C6D-C4D4-4CB7-B341-F02A0AB5EE06}" Name="Sheet.1" NameU="Sheet.1">
+					<Text>ミャンマー交通事情</Text>
+					<XForm>
+						<PinX Unit="MM">2.362204767855351</PinX>
+						<PinY Unit="MM">7.735126708635162</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="2" UniqueID="{70601E42-A8FB-4533-8A5D-E8ECE2DCE1F5}" Name="Sheet.2" NameU="Sheet.2">
+					<XForm>
+						<PinX Unit="MM">5.748031386192556</PinX>
+						<PinY Unit="MM">7.480314817647848</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="3" UniqueID="{8F5CB1C2-30BF-4F59-85A8-C80F680F83B7}" Name="Sheet.3" NameU="Sheet.3">
+					<XForm>
+						<PinX Unit="MM">9.659817742183611</PinX>
+						<PinY Unit="MM">7.677165207585951</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="4" UniqueID="{244DD421-0B68-41D5-A2AD-D8C668717384}" Name="Sheet.4" NameU="Sheet.4">
+					<XForm>
+						<PinX Unit="MM">8.622785333359685</PinX>
+						<PinY Unit="MM">5.781926532127617</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="5" UniqueID="{3AC7B0DA-A692-4502-A323-C3297E17CB65}" Name="Sheet.5" NameU="Sheet.5">
+					<Text>●車両は右側通行
+
+●車は日本の右ハンドル車が8割以上。
+大型トラックは9割以上、右ハンドル日本車
+
+●ヤンゴンでは渋滞が当たり前、車が前に進まない。 
+●電車自体は環状線としてヤンゴン市内を 1周できるようになっているが、街中を電車で移動はほぼありません。
+
+●バスはとても低料金、タクシーも庶民の足として利用者が多い。
+
+●ヤンゴン市内は、バイクの乗り入れ禁止。
+</Text>
+					<XForm>
+						<PinX Unit="MM">5.846456692913387</PinX>
+						<PinY Unit="MM">7.107584061479214</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="6" UniqueID="{C2465985-971F-4C66-B96E-258E682B4080}" Name="Sheet.6" NameU="Sheet.6">
+					<XForm>
+						<PinX Unit="MM">5.846456692913385</PinX>
+						<PinY Unit="MM">2.144801168054678</PinY>
+					</XForm>
+				</Shape>
+			</Shapes>
+		</Page>
+		<Page ID="9" Name="ページ - 5" NameU="Page-5">
+			<PageProps>
+				<PageScale Unit="MM">0.039370078740157</PageScale>
+				<DrawingScale Unit="MM">0.039370078740157</DrawingScale>
+			</PageProps>
+			<Shapes>
+				<Shape ID="1" UniqueID="{40475041-FAC9-4C70-8177-4C71BE8FAF4C}" Name="Sheet.1" NameU="Sheet.1">
+					<Text>ミャンマーにて運転講習　　</Text>
+					<XForm>
+						<PinX Unit="MM">2.809055069195317</PinX>
+						<PinY Unit="MM">7.673692985363728</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="2" UniqueID="{9CADE4AD-2191-45F9-8F78-AAB397659F00}" Name="Sheet.2" NameU="Sheet.2">
+					<XForm>
+						<PinX Unit="MM">5.748031386192556</PinX>
+						<PinY Unit="MM">7.480314817647848</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="3" UniqueID="{DC6D4DE3-C18E-4A78-8F5D-D530EE196FC9}" Name="Sheet.3" NameU="Sheet.3">
+					<XForm>
+						<PinX Unit="MM">9.659817742183611</PinX>
+						<PinY Unit="MM">7.677165207585951</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="4" UniqueID="{1B51721B-AB9B-4061-8A87-C51E16B82972}" Name="Sheet.4" NameU="Sheet.4">
+					<Text>普通免許</Text>
+					<XForm>
+						<PinX Unit="MM">1.230314983521680</PinX>
+						<PinY Unit="MM">7.162073340306204</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="5" UniqueID="{FD1CB770-5EEF-4F72-B143-B93E90536838}" Name="Sheet.5" NameU="Sheet.5">
+					<Text>中型・大型免許</Text>
+					<XForm>
+						<PinX Unit="MM">1.574803187008151</PinX>
+						<PinY Unit="MM">3.601268519935036</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="6" UniqueID="{D82BF99C-B85A-40BE-A504-5868DDA82941}" Name="Sheet.6" NameU="Sheet.6">
+					<XForm>
+						<PinX Unit="MM">2.178357827840478</PinX>
+						<PinY Unit="MM">5.708661308204938</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="7" UniqueID="{F4A2834B-B635-4529-AF10-23929A5836ED}" Name="Sheet.7" NameU="Sheet.7">
+					<XForm>
+						<PinX Unit="MM">5.875147427195046</PinX>
+						<PinY Unit="MM">5.708661308204938</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="8" UniqueID="{EA086B8B-A598-44E6-8F28-CF3498ADEF20}" Name="Sheet.8" NameU="Sheet.8">
+					<XForm>
+						<PinX Unit="MM">2.139579218682023</PinX>
+						<PinY Unit="MM">2.041287162532171</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="10" UniqueID="{62A9BFDC-BD9B-463D-86A8-6C8FD6A59D6A}" Name="Sheet.10" NameU="Sheet.10">
+					<XForm>
+						<PinX Unit="MM">9.528407935770877</PinX>
+						<PinY Unit="MM">2.030470531140380</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="11" UniqueID="{E94D931C-6707-4AB5-B0B5-0A4A0D3945A9}" Name="Sheet.11" NameU="Sheet.11">
+					<XForm>
+						<PinX Unit="MM">5.801230210053584</PinX>
+						<PinY Unit="MM">2.041287162532171</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="12" UniqueID="{DB1D5B3D-10EC-4F02-B668-F3E064AC965F}" Name="Sheet.12" NameU="Sheet.12">
+					<XForm>
+						<PinX Unit="MM">9.503876102528556</PinX>
+						<PinY Unit="MM">5.708661308204938</PinY>
+					</XForm>
+				</Shape>
+			</Shapes>
+		</Page>
+		<Page ID="0" Name="ページ - 1" NameU="Page-1">
+			<PageProps>
+				<PageScale Unit="MM">0.039370078740157</PageScale>
+				<DrawingScale Unit="MM">0.039370078740157</DrawingScale>
+			</PageProps>
+			<Shapes>
+				<Shape ID="1" UniqueID="{13607E9A-94DF-46EF-AEAE-5C4ADAFE1682}" Name="Sheet.1" NameU="Sheet.1">
+					<XForm>
+						<PinX Unit="MM">3.939017102800852</PinX>
+						<PinY Unit="MM">5.750428019443477</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="2" UniqueID="{1603EAB9-5F85-4970-914E-82E926B9E7D9}" Name="Sheet.2" NameU="Sheet.2">
+					<XForm>
+						<PinX Unit="MM">3.913406152039176</PinX>
+						<PinY Unit="MM">2.191929094350064</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="3" UniqueID="{3C201DD6-287F-4333-A54F-5F4ED1D6598B}" Name="Sheet.3" NameU="Sheet.3">
+					<XForm>
+						<PinX Unit="MM">8.381910006456089</PinX>
+						<PinY Unit="MM">5.845720001939289</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="4" UniqueID="{D052F2D9-0FB0-423B-A1F1-D8C440461045}" Name="Sheet.4" NameU="Sheet.4">
+					<Text>来日するまでしっかりと学習しています。
+特に、日本のルールやマナーについて
+
+時間内に問題の最後まで回答できないことの ないように学科試験対策の問題集を
+時間を計測しながら繰り返し行っています。 </Text>
+					<XForm>
+						<PinX Unit="MM">9.415354369464328</PinX>
+						<PinY Unit="MM">1.239063840677821</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="5" UniqueID="{650AD195-B67E-46B0-B014-9667A826B2EE}" Name="Sheet.5" NameU="Sheet.5">
+					<Text>外免切替のための学科試験対策　　</Text>
+					<XForm>
+						<PinX Unit="MM">3.248031433978671</PinX>
+						<PinY Unit="MM">7.735126708635162</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="6" UniqueID="{E644C744-D010-4EC8-830B-6B6BFDC73C02}" Name="Sheet.6" NameU="Sheet.6">
+					<XForm>
+						<PinX Unit="MM">5.748031386192557</PinX>
+						<PinY Unit="MM">7.480314817647848</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="7" UniqueID="{2A25936E-29E3-479D-AF7A-88FD4F747FE5}" Name="Sheet.7" NameU="Sheet.7">
+					<XForm>
+						<PinX Unit="MM">9.659817742183609</PinX>
+						<PinY Unit="MM">7.677165207585951</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="8" UniqueID="{40E9D12F-6444-4512-8DDD-33DBA70A5309}" Name="Sheet.8" NameU="Sheet.8">
+					<XForm>
+						<PinX Unit="MM">10.241311479541050</PinX>
+						<PinY Unit="MM">4.838667833386677</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="9" UniqueID="{BE9F1A02-4A8A-4A3E-A041-93A51C1872FF}" Name="Sheet.9" NameU="Sheet.9">
+					<XForm>
+						<PinX Unit="MM">10.241311479541050</PinX>
+						<PinY Unit="MM">3.444881823916774</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="10" UniqueID="{E30DEFDC-F7BB-4375-9CD4-D2BA5AB7B35B}" Name="Sheet.10" NameU="Sheet.10">
+					<Text>問題集</Text>
+					<XForm>
+						<PinX Unit="MM">8.291696863094860</PinX>
+						<PinY Unit="MM">7.197260355705594</PinY>
+					</XForm>
+				</Shape>
+			</Shapes>
+		</Page>
+		<Page ID="4" Name="ページ - 2" NameU="Page-2">
+			<PageProps>
+				<PageScale Unit="MM">0.039370078740157</PageScale>
+				<DrawingScale Unit="MM">0.039370078740157</DrawingScale>
+			</PageProps>
+			<Shapes>
+				<Shape ID="1" UniqueID="{4DDEFA1D-B0EB-4BEE-9738-4DDE9EFEE1EE}" Name="Sheet.1" NameU="Sheet.1">
+					<Text>外免切替のための実技試験対策（外免サポートの場合）　</Text>
+					<XForm>
+						<PinX Unit="MM">4.576299952851318</PinX>
+						<PinY Unit="MM">7.735126708635162</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="2" UniqueID="{369F7E95-012C-4D32-8BFD-18892B913995}" Name="Sheet.2" NameU="Sheet.2">
+					<XForm>
+						<PinX Unit="MM">5.748031386192556</PinX>
+						<PinY Unit="MM">7.480314817647848</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="3" UniqueID="{C157B77C-F6F7-42B5-AF97-5A6C4DC11C89}" Name="Sheet.3" NameU="Sheet.3">
+					<XForm>
+						<PinX Unit="MM">9.659817742183611</PinX>
+						<PinY Unit="MM">7.677165207585951</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="7" UniqueID="{A5205571-D578-4090-B248-C320E48BF313}" Name="Sheet.7" NameU="Sheet.7">
+					<XForm>
+						<PinX Unit="MM">8.267716377400253</PinX>
+						<PinY Unit="MM">4.031903664287075</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="10" UniqueID="{9BD67BA7-128D-4334-A216-435E3772E50F}" Name="Sheet.10" NameU="Sheet.10">
+					<Text>入国前に教習,来日後に実車にて技能指導及び運転免許試験所にて１日２回のコース下見・実車練習・技能指導を実施します。</Text>
+					<XForm>
+						<PinX Unit="MM">5.846456692913387</PinX>
+						<PinY Unit="MM">0.451662280925415</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="11" UniqueID="{DAD12827-04BB-4489-A765-BF8EBD29272D}" Name="Sheet.11" NameU="Sheet.11">
+					<XForm>
+						<PinX Unit="MM">3.149606239009621</PinX>
+						<PinY Unit="MM">6.298597662159501</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="12" UniqueID="{D47A14E7-47B2-414B-B115-625FCE9B3782}" Name="Sheet.12" NameU="Sheet.12">
+					<XForm>
+						<PinX Unit="MM">8.267716377400253</PinX>
+						<PinY Unit="MM">6.314405221790173</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="13" UniqueID="{91B335EE-B7C4-4926-807A-18075C129349}" Name="Sheet.13" NameU="Sheet.13">
+					<XForm>
+						<PinX Unit="MM">3.149606239009623</PinX>
+						<PinY Unit="MM">1.800904784679828</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="16" UniqueID="{B1D183EA-E865-43AC-BB4B-FA20DBD4AF7D}" Name="Sheet.16" NameU="Sheet.16">
+					<XForm>
+						<PinX Unit="MM">8.288065237257774</PinX>
+						<PinY Unit="MM">1.771653509442912</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="17" UniqueID="{84B10340-BC43-4F6A-8091-581CB9CDCE14}" Name="Sheet.17" NameU="Sheet.17">
+					<XForm>
+						<PinX Unit="MM">3.149606239009622</PinX>
+						<PinY Unit="MM">4.038962323175076</PinY>
+					</XForm>
+				</Shape>
+			</Shapes>
+		</Page>
+		<Page ID="6" Name="ページ - 4" NameU="Page-4">
+			<PageProps>
+				<PageScale Unit="MM">0.039370078740157</PageScale>
+				<DrawingScale Unit="MM">0.039370078740157</DrawingScale>
+			</PageProps>
+			<Shapes>
+				<Shape ID="1" UniqueID="{7A612440-3C9B-48E2-B640-524B1C05D262}" Name="Sheet.1" NameU="Sheet.1">
+					<Text>大型外免切替のための対策　　</Text>
+					<XForm>
+						<PinX Unit="MM">3.838582603792975</PinX>
+						<PinY Unit="MM">7.735126708635162</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="2" UniqueID="{A230F94A-308B-4FCB-8717-CEA5FDA4D05D}" Name="Sheet.2" NameU="Sheet.2">
+					<XForm>
+						<PinX Unit="MM">5.748031386192556</PinX>
+						<PinY Unit="MM">7.480314817647848</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="3" UniqueID="{34E17959-6AC8-4A41-B4F9-337B96DC299F}" Name="Sheet.3" NameU="Sheet.3">
+					<XForm>
+						<PinX Unit="MM">9.659817742183611</PinX>
+						<PinY Unit="MM">7.677165207585951</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="4" UniqueID="{ACED60FA-EDF3-4180-8F14-8DBD5C5FE4BB}" Name="Sheet.4" NameU="Sheet.4">
+					<XForm>
+						<PinX Unit="MM">3.216494396233379</PinX>
+						<PinY Unit="MM">5.314960528328735</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="11" UniqueID="{F2AF1877-D74D-4C3F-B580-8AE6AA33F98E}" Name="Sheet.11" NameU="Sheet.11">
+					<Text>入国前に大型の教本によるペーパー対策。１か月間の徹底した大型バスによる教習。
+日本のJICAが拓いたミャンマーのバス安全運行：自己流から、日本式プログラムによる大型バス教習体制への転換</Text>
+					<XForm>
+						<PinX Unit="MM">5.846456692913387</PinX>
+						<PinY Unit="MM">0.451662280925415</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="12" UniqueID="{B6D2432C-CF6A-4390-BBEF-8E33DE48FD9C}" Name="Sheet.12" NameU="Sheet.12">
+					<XForm>
+						<PinX Unit="MM">3.118069201264327</PinX>
+						<PinY Unit="MM">2.223056044040570</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="13" UniqueID="{60531354-8835-48DF-A814-CEC32D09B92D}" Name="Sheet.13" NameU="Sheet.13">
+					<XForm>
+						<PinX Unit="MM">8.208661260418824</PinX>
+						<PinY Unit="MM">5.575387647905110</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="14" UniqueID="{6ED50DD1-0713-4D5C-81D3-B5A56ADBC22E}" Name="Sheet.14" NameU="Sheet.14">
+					<XForm>
+						<PinX Unit="MM">8.208661260418825</PinX>
+						<PinY Unit="MM">2.272268644347110</PinY>
+					</XForm>
+				</Shape>
+			</Shapes>
+		</Page>
+		<Page ID="5" Name="ページ - 3" NameU="Page-3">
+			<PageProps>
+				<PageScale Unit="MM">0.039370078740157</PageScale>
+				<DrawingScale Unit="MM">0.039370078740157</DrawingScale>
+			</PageProps>
+			<Shapes>
+				<Shape ID="1" UniqueID="{30827843-E06E-4957-A895-DE52D142C02C}" Name="Sheet.1" NameU="Sheet.1">
+					<Text>トラックドライバーとしての講習内容</Text>
+					<XForm>
+						<PinX Unit="MM">3.248031433978671</PinX>
+						<PinY Unit="MM">7.735126708635162</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="2" UniqueID="{6B15ACA1-069B-4C1D-9C19-C2A7D2D6928A}" Name="Sheet.2" NameU="Sheet.2">
+					<XForm>
+						<PinX Unit="MM">5.748031386192557</PinX>
+						<PinY Unit="MM">7.480314817647848</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="3" UniqueID="{DF803AFE-0A3F-4870-8421-BA6D08A9F3F6}" Name="Sheet.3" NameU="Sheet.3">
+					<XForm>
+						<PinX Unit="MM">9.659817742183609</PinX>
+						<PinY Unit="MM">7.677165207585951</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="4" UniqueID="{BE4D4012-858C-41A2-B264-A86BA971ADF6}" Name="Sheet.4" NameU="Sheet.4">
+					<XForm>
+						<PinX Unit="MM">3.482857453515738</PinX>
+						<PinY Unit="MM">4.069389617034767</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="5" UniqueID="{695A71A2-E74A-43B1-9128-BD4222F215B9}" Name="Sheet.5" NameU="Sheet.5">
+					<XForm>
+						<PinX Unit="MM">8.267716377400252</PinX>
+						<PinY Unit="MM">4.085014617034768</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="6" UniqueID="{EC6BF2E9-2BEB-436B-8038-A7D5F9BB1463}" Name="Sheet.6" NameU="Sheet.6">
+					<Text>最新版全10巻を分からない用語を一つ一つ解説を行いながら、ドライバーとしての基本を学習しています。</Text>
+					<XForm>
+						<PinX Unit="MM">5.846456692913386</PinX>
+						<PinY Unit="MM">0.451662280925415</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="7" UniqueID="{8853C1DB-23C7-48DD-AA59-FA343A6121C0}" Name="Sheet.7" NameU="Sheet.7">
+					<XForm>
+						<PinX Unit="MM">4.133858188700127</PinX>
+						<PinY Unit="MM">3.090551122028190</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="8" UniqueID="{FF9EC996-CE8C-4B06-82E0-B36B70D93ABB}" Name="Sheet.8" NameU="Sheet.8">
+					<XForm>
+						<PinX Unit="MM">4.173228266687747</PinX>
+						<PinY Unit="MM">2.755905459133418</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="10" UniqueID="{1669A1CC-4C36-453C-8593-848D4308899C}" Name="長方形" NameU="Rectangle" Master="2">
+					<XForm>
+						<PinX Unit="MM">4.103633398489712</PinX>
+						<PinY Unit="MM">1.516841618455598</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="9" UniqueID="{CCED3CC4-5519-48CC-B051-8DFEB9DD9686}" Name="Sheet.9" NameU="Sheet.9">
+					<XForm>
+						<PinX Unit="MM">4.724409358514430</PinX>
+						<PinY Unit="MM">2.460629874226266</PinY>
+					</XForm>
+				</Shape>
+			</Shapes>
+		</Page>
+	</Pages>
+</VisioDocument>
